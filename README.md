@@ -1,4 +1,6 @@
-# SDE
+# Awesome SDE(Stochastic Differential Equation)
 About Stochastic Differential Equation...
 
-List of reference books.
+List of some reference books.
+
+
