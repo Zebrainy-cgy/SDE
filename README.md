@@ -21,4 +21,6 @@ Link:
 
 [Arxiv 2022] [NEURAL NETWORK STOCHASTIC DIFFERENTIAL EQUATION MODELS WITH APPLICATIONS TO FINANCIAL DATA FORECASTING](https://arxiv.org/pdf/2111.13164)
 
+[Applied Mathematical Modelling 2023] [Neural network stochastic differential equation models with applications to financial data forecasting](https://www.sciencedirect.com/science/article/pii/S0307904X22005340)
+
 
