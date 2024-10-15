@@ -7,6 +7,9 @@ Link:
 [Code for Applied Stochastic Differential Equations by Simo Särkkä](https://github.com/AaltoML/SDE)
 
 
+## Seminar slides
+[18/10/2024] 
+
 ## Paper
 [Arxiv 2022] [Stochastic Physics-Informed Neural Ordinary Differential Equations](https://arxiv.org/pdf/2109.01621)
 
