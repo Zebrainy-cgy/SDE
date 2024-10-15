@@ -18,8 +18,6 @@ Link:
 
 [University of Calgary 2021] [Deep Learning-based Numerical Methods for Stochastic Partial Differential Equations and Applications](https://prism.ucalgary.ca/server/api/core/bitstreams/b7211227-7bce-4b1a-81d4-80a35c37c680/content)
 
-[Arxiv 2022] [Neural Network Stochastic Differential Equation Models with Applications to Financial Data Forecasting](https://arxiv.org/pdf/2111.13164)
-
 [Applied Mathematical Modelling 2023] [Neural network stochastic differential equation models with applications to financial data forecasting](https://www.sciencedirect.com/science/article/pii/S0307904X22005340)
 
 
