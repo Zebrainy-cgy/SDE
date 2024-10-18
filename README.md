@@ -20,4 +20,4 @@ Link:
 
 [Applied Mathematical Modelling 2023] [Neural network stochastic differential equation models with applications to financial data forecasting](https://www.sciencedirect.com/science/article/pii/S0307904X22005340)
 
-[Inverse problems for stochastic partial differential equations: Some progresses and open problems](https://www.aimsciences.org/article/doi/10.3934/naco.2023014)
+[Numerical Algebra, Control and Optimization] [Inverse problems for stochastic partial differential equations: Some progresses and open problems](https://www.aimsciences.org/article/doi/10.3934/naco.2023014)
