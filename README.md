@@ -8,7 +8,7 @@ Link:
 
 
 ## Seminar slides
-[18/10/2024] 
+[18/10/2024] Conditional expectation Brownian motion and stochastic integrals(Shao,Guojiang)
 
 ## Paper
 
