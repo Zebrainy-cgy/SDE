@@ -32,4 +32,7 @@ List of some reference books.
 
 [Journal of Scientific Computing 2022] [Solving Stochastic Optimal Control Problem via Stochastic Maximum Principle with Deep Learning Method](https://link.springer.com/article/10.1007/s10915-022-01979-5)
 
+[Computers & Graphics][Notions of optimal transport theory and how to implement them on a computer](https://arxiv.org/pdf/1710.02634)
+
+[AMS Short Course on Discrete Differential Geometry][Optimal Transport on Discrete Domains](https://people.csail.mit.edu/jsolomon/assets/optimal_transport.pdf)
 
