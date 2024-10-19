@@ -6,6 +6,10 @@ List of some reference books.
 Link:
 [Code for Applied Stochastic Differential Equations by Simo Särkkä](https://github.com/AaltoML/SDE)
 
+About Optimal Transport...
+
+List of some reference books.
+
 [Optimal Transport for Applied Mathematicians by Filippo Santambrogio](https://link.springer.com/book/10.1007/978-3-319-20828-2)
 
 
