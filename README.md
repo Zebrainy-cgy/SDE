@@ -12,6 +12,8 @@ List of some reference books.
 
 [Optimal Transport for Applied Mathematicians by Filippo Santambrogio](https://link.springer.com/book/10.1007/978-3-319-20828-2)
 
+[Computational Optimal Transport: With Applications to Data Science](https://ieeexplore.ieee.org/document/8641476)
+
 
 ## Seminar slides
 [18/10/2024] Conditional expectation Brownian motion and stochastic integrals(Shao,Guojiang)
