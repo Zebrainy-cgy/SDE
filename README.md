@@ -14,6 +14,10 @@ List of some reference books.
 
 [Computational Optimal Transport: With Applications to Data Science](https://ieeexplore.ieee.org/document/8641476)
 
+About Kalman Filter...
+
+[Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter#)
+
 
 ## Seminar slides
 [18/10/2024] Conditional expectation Brownian motion and stochastic integrals(Shao,Guojiang)
