@@ -14,9 +14,10 @@ List of some reference books.
 
 [Computational Optimal Transport: With Applications to Data Science](https://ieeexplore.ieee.org/document/8641476)
 
-About Kalman Filter...
+About Control theory...
 
 [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter#)
+[An Introduction to Mathematical Optimal Control Theory by Lawrence C. Evans](https://math.berkeley.edu/~evans/control.course.pdf)
 
 About Backward stochastic differential equations...
 
