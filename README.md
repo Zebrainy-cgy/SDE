@@ -32,7 +32,13 @@ About Backward stochastic differential equations...
 [Backward Stochastic Differential Equations in Finance by N.El Karoui S.Peng and M.C.Quenez](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9965.00022)
 
 ## Seminar slides
-[18/10/2024] Conditional expectation Brownian motion and stochastic integrals(Shao,Guojiang)
+[18/10/2024] Conditional expectation Brownian motion and stochastic integrals(Shao,Guojiang)[Video](https://www.bilibili.com/video/BV1KKCmY4E55/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [Note](./Notes/Shao_Class_A%20First%20Course%20Of%20Sde.pdf)
+
+[25/10/2024] Ito formula and SDEs(Shao,Guojiang)[Video](https://www.bilibili.com/video/BV15myXYoEdY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=4bc987028313212ccd814d6c4d888423) [Note](./Notes/Shao-Class-Second%20Course%20Of%20Sde.pdf)
+
+[01/11/2024] Numerical methods for Ito SODEs(Chen,Guanyu)[Video](https://www.bilibili.com/video/BV1JUSdYpEAs/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
+[Note](./Notes/3_Guanyu_class_note.pdf)
+
 
 ## Paper
 
