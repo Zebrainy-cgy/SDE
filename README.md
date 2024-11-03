@@ -58,3 +58,4 @@ About Backward stochastic differential equations...
 
 [AMS Short Course on Discrete Differential Geometry][Optimal Transport on Discrete Domains](https://people.csail.mit.edu/jsolomon/assets/optimal_transport.pdf)
 
+[SIAM Journal on Mathematical Analysis][Almost-Sure Stability of the Single Mode Solution of a Noisy Nonlinear Autoparametric System](https://epubs.siam.org/doi/10.1137/23M1556502)
