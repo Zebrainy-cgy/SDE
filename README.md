@@ -39,6 +39,9 @@ About Backward stochastic differential equations...
 [01/11/2024] Numerical methods for Ito SODEs(Chen,Guanyu)[Video](https://www.bilibili.com/video/BV1JUSdYpEAs/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
 [Note](./Notes/3_Guanyu_class_note.pdf)
 
+[09/11/2024] Stationary Process and Random Field(Chen,Guanyu)[Video](https://www.bilibili.com/video/BV1anDzY8EKU/?spm_id_from=333.880.my_history.page.click&vd_source=4bc987028313212ccd814d6c4d888423) 
+[Note](./Notes/4_Guanyu_class_note.pdf)
+
 
 ## Paper
 
