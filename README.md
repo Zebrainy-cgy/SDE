@@ -47,6 +47,8 @@ About Backward stochastic differential equations...
 
 [Arxiv 2017] [Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/pdf/1706.04702)
 
+[JMLR 2020] [Reinforcement Learning in Continuous Time and Space: A Stochastic Control Approach](https://www.jmlr.org/papers/volume21/19-144/19-144.pdf)
+
 [Arxiv 2022] [Stochastic Physics-Informed Neural Ordinary Differential Equations](https://arxiv.org/pdf/2109.01621)
 
 [University of Calgary 2021] [Deep Learning-based Numerical Methods for Stochastic Partial Differential Equations and Applications](https://prism.ucalgary.ca/server/api/core/bitstreams/b7211227-7bce-4b1a-81d4-80a35c37c680/content)
