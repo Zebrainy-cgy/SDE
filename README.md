@@ -49,6 +49,8 @@ About Backward stochastic differential equations...
 
 [JMLR 2020] [Reinforcement Learning in Continuous Time and Space: A Stochastic Control Approach](https://www.jmlr.org/papers/volume21/19-144/19-144.pdf)
 
+[JMLR 2023] [q-Learning in Continuous Time](https://www.jmlr.org/papers/volume24/22-0755/22-0755.pdf)
+
 [Arxiv 2022] [Stochastic Physics-Informed Neural Ordinary Differential Equations](https://arxiv.org/pdf/2109.01621)
 
 [University of Calgary 2021] [Deep Learning-based Numerical Methods for Stochastic Partial Differential Equations and Applications](https://prism.ucalgary.ca/server/api/core/bitstreams/b7211227-7bce-4b1a-81d4-80a35c37c680/content)
