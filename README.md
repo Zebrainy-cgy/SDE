@@ -44,7 +44,8 @@ About Backward stochastic differential equations...
 [09/11/2024] Stationary Process and Random Field(Chen,Guanyu)[Video](https://www.bilibili.com/video/BV1anDzY8EKU/?spm_id_from=333.880.my_history.page.click&vd_source=4bc987028313212ccd814d6c4d888423) 
 [Note](./Notes/4_Guanyu_class_note.pdf)
 
-
+[15/11/2024] Introduction to SPDEs and its Numerical methods (Chen,Guanyu)[Video](https://www.bilibili.com/video/BV14fmZYvEpE/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
+[Note](./Notes/5_Guanyu_note.pdf)
 ## Paper
 
 [Arxiv 2017] [Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/pdf/1706.04702)
