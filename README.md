@@ -1,51 +1,49 @@
 # Awesome SDE(Stochastic Differential Equation)
-About Stochastic Differential Equation...
+## List of some reference books.
+### About Stochastic Differential Equation:
 
-List of some reference books.
+1. [Applied Stochastic Differential Equations by Simo Särkkä](./reference/Applied%20stochastic%20differential%20equations%20(Saarkk,%20Simo%20Solin,%20Arno).pdf) -- [Code](https://github.com/AaltoML/SDE)
 
-Link:
-
-1.Applied Stochastic Differential Equations by Simo Särkkä
-[Book](./Applied%20stochastic%20differential%20equations%20(Saarkk,%20Simo%20Solin,%20Arno).pdf), [Code](https://github.com/AaltoML/SDE)
-
-2.An introduction to computational Stochastic PDEs by Gabriel J.Lord 
-[Book](./Introduction%20to%20stochastic%20calculus%20with%20application_Kelbaner.pdf), [Code](./PICSPDE-PICSPDE/)
-
+1. [An introduction to computational Stochastic PDEs by Gabriel J.Lord](./reference/Introduction%20to%20stochastic%20calculus%20with%20application_Kelbaner.pdf) -- [Official Code](./PICSPDE-PICSPDE/);
 Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
-About Optimal Transport...
+### About Optimal Transport:
 
-List of some reference books.
+1. [Optimal Transport for Applied Mathematicians by Filippo Santambrogio](./reference/Optimal_transport_for_applied_mathematicians.pdf)
 
-[Optimal Transport for Applied Mathematicians by Filippo Santambrogio](https://link.springer.com/book/10.1007/978-3-319-20828-2)
+2. [Computational Optimal Transport: With Applications to Data Science](https://ieeexplore.ieee.org/document/8641476)
 
-[Computational Optimal Transport: With Applications to Data Science](https://ieeexplore.ieee.org/document/8641476)
+3. [Optimal Transport by Cedric Villani](./reference/C%20dric%20Villani%20é%20Optimal%20Transport.pdf)
 
-About Control theory...
+### About Control theory...
 
-[An Introduction to Mathematical Optimal Control Theory by Lawrence C. Evans](https://math.berkeley.edu/~evans/control.course.pdf)
+1. [An Introduction to Mathematical Optimal Control Theory by Lawrence C. Evans](https://math.berkeley.edu/~evans/control.course.pdf)
 
-[Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter#)
+2. [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter#)
 
-About Backward stochastic differential equations...
+### About Backward stochastic differential equations
 
-[Nonlinear Expectations, Nonlinear Evaluations and Risk Measures by Peng](https://link.springer.com/content/pdf/10.1007/978-3-540-44644-6_4.pdf)
+1. [Nonlinear Expectations, Nonlinear Evaluations and Risk Measures by Peng](https://link.springer.com/content/pdf/10.1007/978-3-540-44644-6_4.pdf)
 
-[Backward Stochastic Differential Equations in Finance by N.El Karoui S.Peng and M.C.Quenez](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9965.00022)
+2. [Backward Stochastic Differential Equations in Finance by N.El Karoui S.Peng and M.C.Quenez](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9965.00022)
+
 
 ## Seminar slides
-[18/10/2024] Conditional expectation Brownian motion and stochastic integrals(Shao,Guojiang)[Video](https://www.bilibili.com/video/BV1KKCmY4E55/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [Note](./Notes/Shao_Class_A%20First%20Course%20Of%20Sde.pdf)
+[18/10/2024] Conditional expectation Brownian motion and stochastic integrals (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1KKCmY4E55/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/Shao_Class_A%20First%20Course%20Of%20Sde.pdf)
 
-[25/10/2024] Ito formula and SDEs(Shao,Guojiang)[Video](https://www.bilibili.com/video/BV15myXYoEdY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=4bc987028313212ccd814d6c4d888423) [Note](./Notes/Shao-Class-Second%20Course%20Of%20Sde.pdf)
+[25/10/2024] Ito formula and SDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV15myXYoEdY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/Shao-Class-Second%20Course%20Of%20Sde.pdf)
 
-[01/11/2024] Numerical methods for Ito SODEs(Chen,Guanyu)[Video](https://www.bilibili.com/video/BV1JUSdYpEAs/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
-[Note](./Notes/3_Guanyu_class_note.pdf)
+[01/11/2024] Numerical methods for Ito SODEs (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV1JUSdYpEAs/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
+[**Note**](./Notes/3_Guanyu_class_note.pdf)
 
-[09/11/2024] Stationary Process and Random Field(Chen,Guanyu)[Video](https://www.bilibili.com/video/BV1anDzY8EKU/?spm_id_from=333.880.my_history.page.click&vd_source=4bc987028313212ccd814d6c4d888423) 
-[Note](./Notes/4_Guanyu_class_note.pdf)
+[09/11/2024] Stationary Process and Random Field (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV1anDzY8EKU/?spm_id_from=333.880.my_history.page.click&vd_source=4bc987028313212ccd814d6c4d888423) 
+[**Note**](./Notes/4_Guanyu_class_note.pdf)
 
-[15/11/2024] Introduction to SPDEs and its Numerical methods (Chen,Guanyu)[Video](https://www.bilibili.com/video/BV14fmZYvEpE/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
-[Note](./Notes/5_Guanyu_note.pdf)
+[15/11/2024] Introduction to SPDEs and its Numerical methods (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV14fmZYvEpE/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
+[**Note**](./Notes/5_Guanyu_note.pdf)
+
+[22/11/2024] Introduction to Optimal Transport (Yuxuan Shi) [**Video**](https://www.bilibili.com/video/BV1WTB2YuEU6/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/6th_YuxuanShi.pdf)
+
 ## Paper
 
 [Arxiv 2017] [Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/pdf/1706.04702)
