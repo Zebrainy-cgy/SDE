@@ -46,7 +46,7 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [29/11/2024] Deterministic optimal control problem (Tianxu Lan) [**Video**](https://www.bilibili.com/video/BV1iGzZYtEFF/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/7th_TianxuLan.pdf)
 
-[06/12/2024] Introuction of linear filtering problem (Guojiang Shao) [**Video**]() [**Note**](./Notes/8th_Linear_Filtering_Guojiang.pdf)
+[06/12/2024] Introuction of linear filtering problem (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1aCqWYHExR/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/8th_Linear_Filtering_Guojiang.pdf)
 ## Paper
 
 [Arxiv 2017] [Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/pdf/1706.04702)
